@@ -1,0 +1,84 @@
+Uri: https://www.figma.com/proto/SQqtApo5iK6IHtpeI1ukJZ/NT_Sample_Upload-Document-Process?node-id=1:2&scaling=scale-down-width&page-id=0:1
+File Name: C:\Downloaded Web Sites\www.figma.com\proto\SQqtApo5iK6IHtpeI1ukJZ\NT_Sample_Upload-Document-Process.html
+Content Type: text/html
+
+Uri: https://www.figma.com/api/oembed?url=https://www.figma.com/proto/SQqtApo5iK6IHtpeI1ukJZ/NT_Sample_Upload-Document-Process?node-id=1:2&scaling=scale-down-width&page-id=0:1
+File Name: C:\Downloaded Web Sites\www.figma.com\api\oembed.json
+Content Type: application/json
+
+Uri: https://static.figma.com/app/icon/1/icon-192.png
+File Name: C:\Downloaded Web Sites\www.figma.com\app\icon\1\icon-192.png
+Content Type: image/png
+
+Uri: https://static.figma.com/app/icon/1/icon-128.png
+File Name: C:\Downloaded Web Sites\www.figma.com\app\icon\1\icon-128.png
+Content Type: image/png
+
+Uri: https://static.figma.com/app/icon/1/favicon.png
+File Name: C:\Downloaded Web Sites\www.figma.com\app\icon\1\favicon.png
+Content Type: image/png
+
+Uri: https://static.figma.com/app/icon/1/favicon.svg
+File Name: C:\Downloaded Web Sites\www.figma.com\app\icon\1\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://static.figma.com/app/icon/1/touch-76.png
+File Name: C:\Downloaded Web Sites\www.figma.com\app\icon\1\touch-76.png
+Content Type: image/png
+
+Uri: https://static.figma.com/app/icon/1/touch-120.png
+File Name: C:\Downloaded Web Sites\www.figma.com\app\icon\1\touch-120.png
+Content Type: image/png
+
+Uri: https://static.figma.com/app/icon/1/touch-152.png
+File Name: C:\Downloaded Web Sites\www.figma.com\app\icon\1\touch-152.png
+Content Type: image/png
+
+Uri: https://static.figma.com/app/icon/1/touch-167.png
+File Name: C:\Downloaded Web Sites\www.figma.com\app\icon\1\touch-167.png
+Content Type: image/png
+
+Uri: https://static.figma.com/app/icon/1/touch-180.png
+File Name: C:\Downloaded Web Sites\www.figma.com\app\icon\1\touch-180.png
+Content Type: image/png
+
+Uri: https://www.figma.com/esbuild-artifacts/4e0cd02597b154c994ef3e1ac2bf85bc99dc0b09/css/prototype_app.min.css
+File Name: C:\Downloaded Web Sites\www.figma.com\esbuild-artifacts\4e0cd02597b154c994ef3e1ac2bf85bc99dc0b09\css\prototype_app.min.css
+Content Type: text/css
+
+Uri: https://static.figma.com/webfont/1/Inter-Regular.woff2?v=3.10
+File Name: C:\Downloaded Web Sites\www.figma.com\webfont\1\Inter-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://static.figma.com/webfont/1/Inter-Italic.woff2?v=3.10
+File Name: C:\Downloaded Web Sites\www.figma.com\webfont\1\Inter-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://static.figma.com/webfont/1/Inter-Medium.woff2?v=3.10
+File Name: C:\Downloaded Web Sites\www.figma.com\webfont\1\Inter-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://static.figma.com/webfont/1/Inter-MediumItalic.woff2?v=3.10
+File Name: C:\Downloaded Web Sites\www.figma.com\webfont\1\Inter-MediumItalic.woff2
+Content Type: font/woff2
+
+Uri: https://static.figma.com/webfont/1/Inter-SemiBold.woff2?v=3.10
+File Name: C:\Downloaded Web Sites\www.figma.com\webfont\1\Inter-SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://static.figma.com/webfont/1/Inter-SemiBoldItalic.woff2?v=3.10
+File Name: C:\Downloaded Web Sites\www.figma.com\webfont\1\Inter-SemiBoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://static.figma.com/webfont/1/DSEG7Classic-Italic-Custom2.woff2
+File Name: C:\Downloaded Web Sites\www.figma.com\webfont\1\DSEG7Classic-Italic-Custom2.woff2
+Content Type: binary/octet-stream
+
+Uri: https://static.figma.com/fullscreen/4e0cd02597b154c994ef3e1ac2bf85bc99dc0b09/viewer.js
+File Name: C:\Downloaded Web Sites\www.figma.com\fullscreen\4e0cd02597b154c994ef3e1ac2bf85bc99dc0b09\viewer.js
+Content Type: application/javascript
+
+Uri: https://www.figma.com/esbuild-artifacts/4e0cd02597b154c994ef3e1ac2bf85bc99dc0b09/js/prototype_app.min.js
+File Name: C:\Downloaded Web Sites\www.figma.com\esbuild-artifacts\4e0cd02597b154c994ef3e1ac2bf85bc99dc0b09\js\prototype_app.min.js
+Content Type: application/javascript
+
